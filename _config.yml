@@ -1,2 +1,3 @@
 name: John R. Gunnell
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
